@@ -1,13 +1,3 @@
-/* Time spent on a2:  08 hours and 40 minutes.
- * Name: Daniel Lee, Justin Selig
- * Netid: dyl42, jss459
- * What I thought about this assignment:
- *The assignment was conceptually interesting. However, in execution,
- *it was difficult keeping track of all the attributes and how they
- *change in relation to one another. Upon completion, we were
- *thoroughly satisfied and felt like we learned a lot. 
- *ALSO: we checked the Javadoc and made sure it was OK
-
 /** An instance is a circular doubly linked list. */
 public class CircularLinkedList<E> {
 	private Node head; // a node of linked list (null if none)
